@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442248807899",
+    "firebase_url": "https://docapp-4e4d1.firebaseio.com",
+    "project_id": "docapp-4e4d1",
+    "storage_bucket": "docapp-4e4d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442248807899:android:08e10656767a211a2793fe",
+        "android_client_info": {
+          "package_name": "ashu.myappcompany.docapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442248807899-v64109bmc3ljujo84kd8dk80np0uk3dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ashu.myappcompany.docapp",
+            "certificate_hash": "6fdabdea33944482445043521463d2841c48ee93"
+          }
+        },
+        {
+          "client_id": "442248807899-2etdejbuifptuttahmjdfseo1baub44d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXh-unwyiGJi7pzqOBJSA3ypeUx6cyYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442248807899-2etdejbuifptuttahmjdfseo1baub44d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
